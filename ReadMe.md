@@ -1,6 +1,6 @@
 Powershell module(2 functions) for working with ini files.
 
-**Sample usage:**  
+**Usage:**  
 ```powershell
 Import-Module .\psini.psm1 -force -PassThru  
 $d = ReadIniFile .\sample.ini  
